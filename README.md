@@ -1,2 +1,3 @@
-**E-CommerceWebsite**
-A E-Commerce Website using HTML, CSS, JavaScript.
+**E-Commerce Website**
+
+This website is a sample E-Commerce Website built using HTML, CSS, JavaScript.
